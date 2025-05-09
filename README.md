@@ -4,7 +4,7 @@
   <h3 align="center">🚀 Fullstack Web Developer from México — passionate about building, learning, and sharing knowledge.</h3>
 </div>
 
-<div id="badges" align="center">
+<!-- <div id="badges" align="center">
   <a href="https://twitter.com/V1CMA" target="_blank">
     <img src="https://img.shields.io/twitter/follow/V1CMA?color=1DA1F2&label=Follow&logo=twitter&style=for-the-badge" alt="Twitter Badge"/>
   </a>
@@ -14,7 +14,7 @@
   <a href="https://www.youtube.com/channel/UCFN5jhZAUXr58zBvtNBIXYA" target="_blank">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCFN5jhZAUXr58zBvtNBIXYA?color=FF0000&label=Subscribe&logo=youtube&style=for-the-badge" alt="YouTube Badge"/>
   </a>
-</div>
+</div> -->
 
 ---
 
@@ -22,9 +22,9 @@
 
 - 🔭 Currently working on personal projects and real-world web applications.
 - 📚 Exploring **React.js**, **Vue**, **Astro**, **Tailwind CSS**, and **GSAP**.
-- 💬 Ask me about **Java**, **JavaScript**, or general web development.
+- 💬 Ask me about **JavaScript**, or general web development.
 - 📬 Reach me at: **vicmarc30@gmail.com**
-- 🌐 Portfolio: [vicma.dev](https://vicma.dev)
+- 🌐 Portfolio: [vicma.dev](https://vicma.vercel.app)
 
 ---
 
@@ -41,10 +41,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" alt="Sass"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="TailwindCSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="TailwindCSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="40" alt="Astro"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Gsap-greensock-logo.png" width="40" alt="GSAP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/wordpress/wordpress-plain.svg" width="40" alt="WordPress"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg" width="40" alt="Laravel"/>
 </div>
 
 ---
@@ -53,9 +54,9 @@
 
 | Project | Description | Stack | Demo |
 |--------|-------------|-------|------|
-| [Barbería Don Perfecto](https://github.com/V1CMA-V/barberia-don-perfecto) | Landing page moderna para barbería local | Astro, Tailwind, GSAP | [🔗 Ver demo](https://barberia.vicma.dev) |
-| [G-Look](https://github.com/V1CMA-V/g-look) | Web inmobiliaria con slider animado y diseño dividido | Astro, Swiper.js, ViewTransitions | [🔗 Ver demo](https://glook.vicma.dev) |
-| [Air Quality ML](https://github.com/V1CMA-V/air-quality-puebla) | Análisis y predicción de calidad del aire en Puebla | Python, Pandas, Scikit-learn | — |
+| [Barberías](https://github.com/V1CMA-V/Barberias) | Landing page moderna para barbería local | Astro, Tailwind, GSAP | [🔗 Ver demo](https://barberiavic.vercel.app) |
+| [Minis-FHA](https://github.com/V1CMA-V/minis-fha) | Page moderna para una empresa dedicada al entrenamiento canino | Astro, Tailwind, auth, preact, sharp, tailwindcss | [🔗 Ver demo](https://minis-fha.vercel.app) |
+| [Air Quality ML](https://github.com/V1CMA-V/calidad-del-aire-Puebla) | Análisis y predicción de calidad del aire en Puebla | Python, Pandas, Scikit-learn | — |
 
 > ✨ Más proyectos pronto...
 
