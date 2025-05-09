@@ -63,13 +63,14 @@
 ---
 
 ### 📊 GitHub Stats
+<div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=V1CMA-V&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=V1CMA-V&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=V1CMA-V&theme=radical&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=V1CMA-V&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=V1CMA-V&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=V1CMA-V&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 ---
 
 ### 🎯 Fun Fact
